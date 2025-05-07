@@ -35,6 +35,6 @@ Um sistema interativo que captura imagens via webcam, aplica processamentos avan
 ## Como Usar
 1. **Execução no Colab**:
  ```python
- !git clone https://github.com/seu-usuario/identificador-de-cores.git
+ !git clone https://github.com/AndreMarques2002/PDI_2025.git
  %cd identificador-de-cores
  !python Projeto_identificador_de_cores.py
