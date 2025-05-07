@@ -32,6 +32,9 @@ Um sistema interativo que captura imagens via webcam, aplica processamentos avan
 | Matplotlib     | 3.4+              | `pip install matplotlib`   |
 | Webcolors      | 1.11+             | `pip install webcolors`    |
 
+
+Link do projeto: https://colab.research.google.com/drive/1FopG8euXWRaMMGzvtgJl87KLWm0_7bCT?authuser=1#scrollTo=L9d-6eB4mk72
+
 ## Como Usar
 1. **Execução no Colab**:
  ```python
