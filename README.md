@@ -33,7 +33,7 @@ Um sistema interativo que captura imagens via webcam, aplica processamentos avan
 | Webcolors      | 1.11+             | `pip install webcolors`    |
 
 
-Link do projeto: [sd](https://colab.research.google.com/drive/1ldlE8Aq3Xty8U_v-6Mi-yvNH_iEIOWX5?usp=sharing)
+Link do projeto: [Colab](https://colab.research.google.com/drive/1ldlE8Aq3Xty8U_v-6Mi-yvNH_iEIOWX5?usp=sharing)
 
 ## Como Usar
 1. **Execução no Colab**:
