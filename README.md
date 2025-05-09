@@ -35,6 +35,8 @@ Um sistema interativo que captura imagens via webcam, aplica processamentos avan
 
 Link do projeto: [Colab](https://colab.research.google.com/drive/1ldlE8Aq3Xty8U_v-6Mi-yvNH_iEIOWX5?usp=sharing)
 
+Link da apresentação: [Canva](https://www.canva.com/design/DAGmzUcHnic/m3KsyEEC2DlgsdYfxX6fbQ/edit?utm_content=DAGmzUcHnic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Como Usar
 1. **Execução no Colab**:
  ```python
